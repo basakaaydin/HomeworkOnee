@@ -41,6 +41,8 @@ _iktisat_ bölümü
 
 **Soru 6** Markdown kullanarak istediğiniz bir websayfasına link veriniz.
 
+ ([Trendyol!](http://www.trendyol.com/))
+
 Cevabınızı buraya yazınız!
 
 **Soru 7** Markdown kullanarak bir komik bir kedi fotoğrafı ekleyiniz.
