@@ -12,12 +12,12 @@ opts_chunk$set(fig.align="center", fig.height=4, fig.width=5.5)
 
 **Soru 1** Markdown kullanarak bir kelimesi kalın olan bir cümle yazınız.
 
-**istatistik dersi**
+**istatistik** dersi
 
 
 **Soru 2** Markdown kullanarak bir kelimesi italik olan bir cümle yazınız.
 
-Cevabınızı buraya yazınız!
+_iktisat_ bölümü
 
 **Soru 3** Markdown kullanarak bir kelimesi kalın italik olan bir cümle yazınız.
 
