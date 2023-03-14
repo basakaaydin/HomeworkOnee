@@ -64,4 +64,7 @@ $$
 
 **Soru 9** Bir kod bloğu ekleyerek 5 + 4 toplamını hesaplayınız.
 
-Cevabınızı buraya yazınız!
+```{r}
+5+4
+```
+
