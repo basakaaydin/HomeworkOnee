@@ -50,7 +50,11 @@ _iktisat_ bölümü
 
 **Soru 8** RMarkdown kullanarak bir kod bloğu ekleyiniz ve içerisinde basit bir matematik işlemi yapınız.
 
-Cevabınızı buraya yazınız!
+
+```{r}
+2+2
+
+```
 
 **Soru 9** LaTeX kullanarak bir blok denklem yazınız
 
