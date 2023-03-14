@@ -33,7 +33,11 @@ _iktisat_ bölümü
 
 **Soru 5** Markdown kullanarak 3 elemanlı bir sıralı liste yazınız.
 
-Cevabınızı buraya yazınız!
+1.ayakkabı
+
+2.parfüm
+
+3.çanta
 
 **Soru 6** Markdown kullanarak istediğiniz bir websayfasına link veriniz.
 
